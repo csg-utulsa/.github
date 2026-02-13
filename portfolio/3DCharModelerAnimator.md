@@ -16,7 +16,7 @@ This includes sculpting, retopology, UVs, texturing, rigging, animation, and dem
     
 ---
 
-# Portfolio Deliverables Checklist (Per Character Piece)
+# Portfolio Deliverables Checklist
 Each character in your portfolio should be presented as a **complete character package**, the way it would be reviewed in a professional portfolio.
 
 Use this checklist to organize your character page (or ArtStation post). **The goal is not to do every possible category for every character**, but to clearly show what work you personally completed.
