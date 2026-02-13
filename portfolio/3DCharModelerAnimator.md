@@ -44,7 +44,8 @@ Use this checklist to organize your character page (or ArtStation post). **The g
 
 ### C) Modeling + Topology Proof 
 - [ ] **Low-Poly Mesh:** Optimized character model suitable for real-time rendering.  
-- [ ] **Wireframe Renders:** Full body + face close-up + hands close-up (if applicable).  
+- [ ] **Wireframe Renders:** Full body + face close-up + hands close-up (if applicable).
+- [ ] **LOD Proof:** Side-by-side image showing LOD0 / LOD1 / LOD2 with triangle counts listed (if applicable).
 - [ ] **Polygon Stats:** Tris, faces, and vertices clearly listed on the page.  
 - [ ] **Topology Quality:** Clean edge loops around shoulders, elbows, hips, knees, and mouth.  
 - [ ] **Real-Time Budget Target:** Platform target stated (PC/console/mobile) with triangle budget.
