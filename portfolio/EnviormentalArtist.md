@@ -37,7 +37,7 @@ Use this checklist to organize your portfolio page (or ArtStation post). **The g
 - [ ] **Clay Render:** Neutral gray material to show silhouette, lighting, and surface form.  
 - [ ] **Textured Turntable:** Animated 360° rotation around the object.  
 - [ ] **Clay Turntable:** Animated 360° rotation around the object.  
-- [ ] 🌟 **Gameplay Footage:** Video showing the object used in a game context.
+- [ ] 🌟 **Real-Time Gameplay Capture:** Video showing the object used in a game context.
 
 ### B) Required Written Info
 - [ ] **Description:**  1–2 Sentence describing what it is and what it’s for in a game
@@ -69,11 +69,31 @@ Use this checklist to organize your portfolio page (or ArtStation post). **The g
 
 ## Add-On Deliverables
 
-### Environment Scene + Storytelling (Required for Kits + Scenes)
+### D) Environment Storytelling
 - [ ] **Environmental Staging**: Rendered scene demonstrating the objects in a fully staged environment
 - [ ] **Modular Assembly:** Image demonstrating how modular pieces come together in the environment scene.
-- [ ] **Real-Time Flythrough Video:** Short fly-through or orbit showing the environment from multiple angles.
+- [ ] 🌟 **Real-Time Gameplay Capture Flythrough:** Short fly-through or orbit showing the environment from multiple angles.
 - [ ] **Environmental Story Intent (1–2 Sentences):** A 1-2 sentence description of what story the scene is meant to convey through props, lighting, and staging (no dialogue, no characters required).
+
+### E) Baking + Texture Deliverables
+- [ ] **Bake Proof:** Close-up screenshots showing clean normal bake detail transfer.  
+- [ ] **UV Layout:** Organized UVs with no major stretching and logical island grouping.  
+- [ ] **Texel Density Notes:** Consistent density OR explanation of intentional differences.  
+- [ ] **PBR Texture Maps:** Albedo/BaseColor, Normal, Roughness, Metallic (or Specular workflow).  
+- [ ] **Optional Maps (If Used):** AO, Emissive, Opacity, Height.  
+- [ ] **Texture Resolution Listed:** Example: “Hero Prop 2K, small props 1K.”
+
+### F) Materials + Shader Work
+- [ ] **Material Variety:** At least 2 distinct surface types visible.
+- [ ] **Material Breakdown:** A screenshot or page section showing which materials are assigned where.
+- [ ] **Shader Demonstration:** Decals, emissive, vertex blend, detail normals, etc. 
+- [ ] 🌟 **Real-Time Gameplay Capture:** Video showing textures/materials real-time rendered in game
+
+### H) Lighting + Mood (Only if you lit the scene)
+- [ ] **Mood Pass:** Rendering showing lighting that supports the intended theme (cozy, horror, abandoned, sci-fi, etc.).
+- [ ] **Lighting Breakdown:** Lighting-only view or light placement screenshot
+- [ ] **Composition Proof:** Rendering with a clear focal point and readable value grouping (the scene “reads” at a glance).
+- [ ] 🌟 **Real-Time Gameplay Capture:** Short fly-through or orbit showing the lighting working from multiple angles.
 
 
  
