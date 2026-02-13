@@ -34,7 +34,7 @@ Use this checklist to organize your character page (or ArtStation post). **The g
 - [ ] **Clay Render:** Neutral gray material to show silhouette, lighting, and surface form.  
 - [ ] **Textured Turntable:** Animated 360° rotation around the character.  
 - [ ] **Clay Turntable:** Animated 360° rotation around the character.  
-- [ ] 🌟 **Gameplay Footage:** Video showing the character used in a game context (third-person camera or similar).
+- [ ] 🌟 **Real-Time Gameplay Capture:** Video showing the character used in a game context (third-person camera or similar).
  
 ### B) Required Written Info
 - [ ] **Description:**  Character Name + 1–2 Sentence on who they are and what role they fit.  
@@ -89,7 +89,7 @@ Use this checklist to organize your character page (or ArtStation post). **The g
 - [ ] **Material Variety:** At least 2–3 distinct surface types (skin, cloth, metal, leather, etc.).  
 - [ ] **Shader Demonstration:** Proof of specialized shading (skin SSS, hair anisotropy, cloth response, etc.).  
 - [ ] **Material Breakdown:** A screenshot or page section showing which materials are assigned where.   
-- [ ] 🌟 **Gameplay Real-Time Render:** Video showing textures/materials real-time rendered in game.  
+- [ ] 🌟 **Real-Time Gameplay Render:** Video showing textures/materials real-time rendered in game.  
 
 
 ### H) Rigging Deliverables
@@ -104,7 +104,7 @@ Use this checklist to organize your character page (or ArtStation post). **The g
 - [ ] **Walk Cycle:** In-place and/or forward moving version.  
 - [ ] **Run Cycle:** In-place and/or forward moving version.  
 - [ ] **Action Animation:** Attack / jump / dodge / interaction animation.  
-- [ ] 🌟 **Gameplay Animation in Context:** Video of in-game character animations (Idle + locomotion and action if available)  
+- [ ] 🌟 **Real-Time Gameplay Capture:** Character animations (Idle + locomotion and action if available) in-game.
 - [ ] **Rig-Visible Animation:** A version of each clip showing skeleton or rig controls.  
 - [ ] **Timing/Beat Accuracy:** Animation hits clear beats (weight shifts, foot plants, impacts).
 
