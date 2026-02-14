@@ -55,10 +55,11 @@ Use this checklist to organize your character page (or ArtStation post). **The g
 > 
 > | Platform / Use              | Typical Tris (LOD0 / Hero) |
 > | --------------------------- | -------------------------- |
-> | Mobile / Low                | 5k–20k                     |
-> | Switch / Indie              | 15k–40k                    |
-> | PC / Console                | 40k–90k                    |
-> | Hero / Cinematic PC/Console | 70k–120k                   |
+> | Mobile / Low                | 1K - 5K                    |
+> | XR (Quest/Vive)             | 5K - 15k                   |
+> | Switch / Indie              | 5K - 20k                   |
+> | PC / Console                | 20K – 50K                  |
+> | Cinematic                   | 50k–100K                   |
 > 
 
 
@@ -81,7 +82,7 @@ Use this checklist to organize your character page (or ArtStation post). **The g
 - [ ] **Bake Proof:** Close-up screenshots showing clean normal bake detail transfer.  
 - [ ] **UV Layout:** Organized UVs with no major stretching and logical island grouping.  
 - [ ] **Texel Density Notes:** Consistent density OR explanation of intentional differences.  
-- [ ] **PBR Texture Maps:** Albedo/BaseColor, Normal, Roughness, Metallic (or Specular workflow).  
+- [ ] **Texture Maps:** Albedo/BaseColor, Normal, Roughness, Metallic (or Specular workflow).  
 - [ ] **Optional Maps (If Used):** AO, Emissive, Opacity, Height.  
 - [ ] **Texture Resolution Listed:** Example: “Body 2K, Head 2K, Accessories 1K.”
 
@@ -109,7 +110,8 @@ Use this checklist to organize your character page (or ArtStation post). **The g
 - [ ] **Timing/Beat Accuracy:** Animation hits clear beats (weight shifts, foot plants, impacts).
 
 ### J) Animation Process + Principles (Required for at least 1 animation)
-- [ ] **Process Gallery:** From "Block-in" to "Splining" to "Polishing."  
+- [ ] **Process Gallery:** From "Block-in" to "Splining" to "Polishing."
+- [ ] **Storybords:** Action animation, lip syncs, charcter cut scenes (when applicable).
 - [ ]  🌟**In-Engine Animation System:** Simple state machine or blend tree shown.  
 - [ ] **Principle Highlights:** Callouts showing Anticipation, Follow-through, and Timing/Spacing.  
 - [ ] **Self-Analysis:** 3–5 sentences explaining what was adjusted to improve the motion.
