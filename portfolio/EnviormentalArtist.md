@@ -9,7 +9,7 @@ Environmental 3D Artists create the props, architecture, terrain, and scene dres
 > -   **Game-ready environment assets** (props, architecture, and set dressing built for real-time use)
 > -   **High-quality hero props** (at least one piece showing strong silhouette, detail, and materials)  
 > -   **Modular environment kits** (walls/floors/trim pieces designed for reuse and grid snapping)  
-> -   **UVs texturing** (UV layouts and texture maps where applicable)  
+> -   **UVs + texturing** (maps, UV layout, and texture breakdowns where applicable)
 > -   **Material and shader work** (surface variety like metal/wood/stone/fabric, shown in real-time rendering)  
 > -   **Lighting + mood scenes** (at least one environment composition demonstrating atmosphere and storytelling)  
 > -   **Optimization proof** (triangle counts, texture budgets, and efficiency choices clearly documented)  
@@ -93,6 +93,13 @@ Use this checklist to organize your portfolio page (or ArtStation post). **The g
 - [ ] **Lighting Breakdown:** Lighting-only view or light placement screenshot
 - [ ] **Composition Proof:** Rendering with a clear focal point and readable value grouping (the scene “reads” at a glance).
 - [ ] 🌟 **Real-Time Gameplay Capture:** Short fly-through or orbit showing the lighting working from multiple angles.
+
+### G) Animated / Interactive Assets
+- [ ] **Animation Preview:** Short looping video or GIF showing the animation in isolation (e.g., door opening, lever moving, fan spinning).
+- [ ] 🌟**Real-Time Gameplay Capture:** Video showing the animated object in the game/scene context, from a player-style camera.
+- [ ]  **Timeline / Keyframe Proof:** Screenshot of animation timeline, keyframes, or Sequencer/Timeline tracks showing how animation was implemented.
+- [ ]  **Function / Interaction Notes (1–2 sentences):** Describe what triggers the animation, how it interacts with the player, and any intended gameplay effect.
+- [ ] **LOD / Optimization Check (If Applicable):** Show that the animated mesh maintains acceptable performance (tri counts, material efficiency, or baked animations).
 
 
  
