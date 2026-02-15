@@ -36,7 +36,7 @@ Each cinematic sequence in your portfolio should demonstrate your ability to pla
 - [ ]  **Sequence Title + 1–2 Sentence Intent:** What story beat or mood is being delivered?
 - [ ]  **Length + Context:** Cutscene, intro, gameplay moment, or scripted event.
 - [ ] **Software List:** Tools used ( Unity/Unreal, Blender/Maya/Max, etc.).
-- [ ] **Citation List:** External textures cited with licence. 
+- [ ] **Citation List:** External assets cited with licence. 
 
 ### C) Planning/Storyboarding
 - [ ] **Beat Sheet:** One-page breakdown of the key sequence beats.
@@ -53,7 +53,7 @@ Each cinematic sequence in your portfolio should demonstrate your ability to pla
 ## Add-On Deliverables
 
 ### E) Cinematic Direction (Camera + Composition)
-- [ ] **Composition Proof (Annotated Frame): Screenshot from the cinematic with callouts identifying focal point, foreground/midground/background, and visual hierarchy (optional thirds grid).
+- [ ] **Composition Proof (Annotated Frame):** Screenshot from the cinematic with callouts identifying focal point, foreground/midground/background, and visual hierarchy (optional thirds grid).
 - [ ] **Lens / FOV Proof:** Rendering of various camera shots, label each with the FOV/focal length.
 - [ ] **Camera Motion Clip (10–20s):** A short video showing one deliberate camera movement (e.g., slow push-in, a reveal, a handheld shake, or an orbit) that helps tell the story or highlight important elements.
 - [ ] **Camera Move Proof (Timeline Screenshot):** Screenshot of the Sequencer/Timeline camera track showing keyframes and easing.
