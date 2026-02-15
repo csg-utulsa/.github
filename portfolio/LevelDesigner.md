@@ -31,6 +31,7 @@ Each level or level section in your portfolio should show **your ability to desi
 
 ### B) Required Written Info
 - [ ] **Level Name + 1–2 Sentence Description:** Purpose of the level and intended player experience.
+- [ ] **Story & Gameplay Intent (1–2 Sentences):** What the player should feel or discover, and how gameplay mechanics support the narrative.
 - [ ] **Target Platform / Genre:** Indicate where the level would be used (PC, console, VR, mobile).
 - [ ] **Player Capacity / Scale Notes:** Map dimensions, expected number of players (if multiplayer), or approximate traversal times.
 - [ ] **Software Used:** Tools (Blender, Unreal, Unity, World Machine, etc.).
@@ -40,12 +41,10 @@ Each level or level section in your portfolio should show **your ability to desi
 - [ ]  **Annotations of Interactivity:** Explain what triggers gameplay events and why they improve flow.
 - [ ] **Technical Notes:** Basic explanation of scripting approach or logic if implemented.
 
-### D) Storytelling + Mood + Composition 
-- [ ] **Story Intent (1–2 Sentences):** What is happening here, and what should the player feel?
-- [ ] **Environmental Story Proof (Screenshots or Video):** Props + layout + lighting communicate story without dialogue or text.
-- [ ] **Annotations / Callouts:** 3–6 labeled notes pointing to storytelling details and design intent.
-- [ ] **Lighting Mood Pass:** Lighting supports the theme (cozy, horror, abandoned, battle-worn, etc.).
-- [ ] **Composition Proof:** Clear focal point + readable visual hierarchy (player eye is guided intentionally).
+### D) Storytelling Through Level Design (Player Experience Focus)
+- [ ] **Interaction Narrative Clips / Screenshots:** Short gameplay clips or annotated screenshots highlighting **affordances** (doors, climbable surfaces, cover, puzzles, destructibles) that convey story or guide player discovery.
+- [ ] **Environmental Story Callouts:** Notes or labels pointing to objects, props, or layout elements and explaining **how they reinforce narrative or world-building**.
+- [ ] **Visual Focus Proof:** Evidence that geometry, lighting, and focal points lead the player’s attention to key narrative interactions (not just decorative elements).
 
 --- 
 
