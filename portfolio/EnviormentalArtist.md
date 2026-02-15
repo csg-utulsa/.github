@@ -9,7 +9,7 @@ Environmental 3D Artists create the props, architecture, terrain, and scene dres
 > -   **Game-ready environment assets** (props, architecture, and set dressing built for real-time use)
 > -   **High-quality hero props** (at least one piece showing strong silhouette, detail, and materials)  
 > -   **Modular environment kits** (walls/floors/trim pieces designed for reuse and grid snapping)  
-> -   **UVs + baking + PBR texturing** (UV layouts, bake proof, and texture maps where applicable)  
+> -   **UVs texturing** (UV layouts and texture maps where applicable)  
 > -   **Material and shader work** (surface variety like metal/wood/stone/fabric, shown in real-time rendering)  
 > -   **Lighting + mood scenes** (at least one environment composition demonstrating atmosphere and storytelling)  
 > -   **Optimization proof** (triangle counts, texture budgets, and efficiency choices clearly documented)  
@@ -77,21 +77,18 @@ Use this checklist to organize your portfolio page (or ArtStation post). **The g
 - [ ] 🌟 **Real-Time Gameplay Capture Flythrough:** Short fly-through or orbit showing the environment from multiple angles.
 - [ ] **Environmental Story Intent (1–2 Sentences):** A 1-2 sentence description of what story the scene is meant to convey through props, lighting, and staging (no dialogue, no characters required).
 
-### E) Baking + Texture Deliverables
-- [ ] **Bake Proof:** Close-up screenshots showing clean normal bake detail transfer.  
+### E) Materials + Texture Deliverables
 - [ ] **UV Layout:** Organized UVs with no major stretching and logical island grouping.  
-- [ ] **Texel Density Notes:** Consistent density OR explanation of intentional differences.  
-- [ ] **PBR Texture Maps:** Albedo/BaseColor, Normal, Roughness, Metallic (or Specular workflow).  
-- [ ] **Optional Maps (If Used):** AO, Emissive, Opacity, Height.  
-- [ ] **Texture Resolution Listed:** Example: “Hero Prop 2K, small props 1K.”
+- [ ] **Texture Maps:** Base Map, Normal Map, Roughness Map, Metallic Map (or Specular workflow).  
+- [ ] **Optional Maps (If Used):** Ambient Occlusion, Emissive, Alpha, Height.  
+- [ ] **Texture Resolution Listed:** Example: “Body 2K, Head 2K, Accessories 1K.”
+- [ ] **Material Variety:** At least 2–3 distinct surface types (skin, cloth, metal, leather, etc.).  
+- [ ] **Shader Demonstration:** Proof of specialized shading (skin SSS, hair anisotropy, cloth response, etc.).  
+- [ ] **Material Breakdown:** A screenshot or page section showing which materials are assigned where.   
+- [ ] 🌟 **Real-Time Gameplay Render:** Video showing textures/materials real-time rendered in game.  
 
-### F) Materials + Shader Work
-- [ ] **Material Variety:** At least 2 distinct surface types visible.
-- [ ] **Material Breakdown:** A screenshot or page section showing which materials are assigned where.
-- [ ] **Shader Demonstration:** Decals, emissive, vertex blend, detail normals, etc. 
-- [ ] 🌟 **Real-Time Gameplay Capture:** Video showing textures/materials real-time rendered in game
 
-### H) Lighting + Mood (Only if you lit the scene)
+### F) Lighting + Mood (Only if you lit the scene)
 - [ ] **Mood Pass:** Rendering showing lighting that supports the intended theme (cozy, horror, abandoned, sci-fi, etc.).
 - [ ] **Lighting Breakdown:** Lighting-only view or light placement screenshot
 - [ ] **Composition Proof:** Rendering with a clear focal point and readable value grouping (the scene “reads” at a glance).
