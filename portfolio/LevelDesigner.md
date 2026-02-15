@@ -35,7 +35,7 @@ Each level or level section in your portfolio should show **your ability to desi
 - [ ] **Target Platform / Genre:** Indicate where the level would be used (PC, console, VR, mobile).
 - [ ] **Player Capacity / Scale Notes:** Map dimensions, expected number of players (if multiplayer), or approximate traversal times.
 - [ ] **Software Used:** Tools (Unity, Unreal, Unity, Godot, etc.).
-- [ ]  **Citation List:** External assets cited with licence.
+- [ ] **Cite External Assets:** Include all external assets (e.g., images, textures, models, sounds, references) used in your work, and note the license, permission, or source for each.
     
 ### C) Interactive / Dynamic Elements 
 - [ ] 🌟**Playable Prototype:** Show scripted events, interactive doors, destructible objects, or elevators.
