@@ -27,7 +27,7 @@ Each level or level section in your portfolio should show **your ability to desi
 - [ ] **Level Overview Screenshot / Video:** High-resolution image or short video showing the full layout.
 - [ ] **Playable Blockout / Greybox:** Demonstrates scale, player flow, and spatial readability.
 - [ ] **Multiple Angles / Section Views:** 3–5 shots highlighting key areas, choke points, or landmarks.
-- [ ] 🌟**Gameplay Footage / Walkthrough:** Short recording showing traversal, navigation, and core gameplay pacing.
+- [ ] 🌟 **Real-Time Gameplay Walkthrough:**:** Short recording showing traversal, navigation, and core gameplay pacing.
 
 ### B) Required Written Info
 - [ ] **Level Name + 1–2 Sentence Description:** Purpose of the level and intended player experience.
