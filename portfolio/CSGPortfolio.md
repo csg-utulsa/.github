@@ -55,9 +55,3 @@ In addition to the **3 game portfolio pieces**, students will prepare **addition
 -   **Technical Artist (3D)**
 -   **UX Designer**
 
-#
-
-> [!NOTE]
->  Role-specific checklists detail additional deliverables such as documentation, scripts, sprite sheets, modular kits, blockouts, adaptive audio implementation, animation reels, or interaction diagrams.
-> These should be included **in addition to the essential items above**.
-> 
