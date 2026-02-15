@@ -1,6 +1,6 @@
 ## Cinematic Artist / Sequencer
 
-Cinematic artists use **Unity Timeline** or **Unreal Sequencer** to choreograph **cameras, animation, lighting, VFX, and audio** into polished real-time cutscenes and scripted moments that support story, mood, and gameplay.
+Cinematic artists use Unity Timeline or Unreal Sequencer to choreograph cameras, animation, lighting, VFX, and audio into polished real-time cutscenes and scripted moments that support story, mood, and gameplay.
 
 > \[!IMPORTANT\]
 > 
