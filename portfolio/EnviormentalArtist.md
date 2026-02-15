@@ -55,15 +55,17 @@ Use this checklist to organize your portfolio page (or ArtStation post). **The g
 - [ ] **Real-Time Budget Target:** Platform target stated (PC/console/mobile) with triangle budget.
 
 > [!NOTE]
-> ### Common Triangle Budgets by Platform / Character Type:
+> ### Common Triangle Budgets by Platform / Asset Type:
 > 
 > | Platform / Use              | Typical Tris (LOD0 / Hero) |
 > | --------------------------- | -------------------------- |
-> | Mobile / Low                | 5k–20k                     |
-> | Switch / Indie              | 15k–40k                    |
-> | PC / Console                | 40k–90k                    |
-> | Hero / Cinematic PC/Console | 70k–120k                   |
->
+> | Mobile / Low                | 100 - 1K                    |
+> | XR (Quest/Vive)             | 500 - 3k                   |
+> | Switch / Indie              | 500 - 2k                   |
+> | PC / Console                | 2K – 10K                  |
+> | Cinematic                   | 10k – 50K                   |
+> 
+
 
 --- 
 
