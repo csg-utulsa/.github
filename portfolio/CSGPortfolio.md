@@ -37,7 +37,7 @@ Each project should clearly demonstrate your skills, problem-solving, and contri
 In addition to the **3 game portfolio pieces**, students will prepare **additional portfolio pieces based on their designated role**. 
 
 > [!WARNING]
-> See Harvey _Portfolio Assessment_ assignment feedback for your assigned role.
+> Refer to your **Harvey** **_Portfolio Assessment_** assignment for your assigned role, which was agreed upon in discussion with your professor and cannot be changed without further consultation.
 > 
 
 #
