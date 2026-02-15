@@ -33,26 +33,26 @@ Use this checklist to organize your portfolio page (or ArtStation post). **The g
 ## Required Deliverables 
 
 ### A) Presentation
-- [ ] **Textured Beauty Render:** Final materials, clear lighting, full object visible.  
-- [ ] **Clay Render:** Neutral gray material to show silhouette, lighting, and surface form.  
-- [ ] **Textured Turntable:** Animated 360° rotation around the object.  
-- [ ] **Clay Turntable:** Animated 360° rotation around the object.  
-- [ ] 🌟 **Real-Time Gameplay Capture:** Video showing the object used in a game context.
-
+- [ ] **Textured Beauty Render:** Final materials, clear lighting, full body visible.  
+- [ ] **Clay Render:** Neutral gray material to show silhouette, lighting, and surface form (**single prop only**).
+- [ ] **Textured Turntable:** Animated 360° rotation around the character.  
+- [ ] **Clay Turntable:** Animated 360° rotation around the character.  
+- [ ] 🌟 **Real-Time Gameplay Capture:** Video showing the character used in a game context (third-person camera or similar).
+ 
 ### B) Required Written Info
-- [ ] **Description:**  1–2 Sentence describing what it is and what it’s for in a game
-- [ ] **Asset Type Label:** Prop / Modular Kit / Scene / Terrain
-- [ ] **Style Tag:** Realistic/stylized / semi-real.  
-- [ ] **Polycount + Texture Budget:** Tris + texture sizes listed clearly.  
-- [ ] **Software List:** Tools used (ZBrush, Blender/Maya, Substance, Unity/Unreal, etc.).
+- [ ] **Description:**  Character Name + 1–2 Sentence on who they are and what role they fit.  
+- [ ] **Style Tag:** Realistic/stylized / semi-real.
+- [ ] **Real-Time Budget Target:** Platform target stated (PC/console/mobile) with triangle budget.
+- [ ] **Polycount + Texture:** Tris + texture count listed clearly in description
+- [ ] **Software List:** Tools used (Blender/Maya/Max, Unity/Unreal, Substance, ZBrush, etc.).
+- [ ] **Citation List:** External textures cited with licence. 
 
 ### C) Modeling + Topology Proof 
-- [ ] **Low-Poly Mesh:** Optimized character model suitable for real-time rendering.
-- [ ] **Scale Proof:** Shown next to a character, mannequin, or scale reference
-- [ ] **Wireframe Renders:** Full object + close up details (if applicable).
-- [ ] **LOD Proof:** Side-by-side image showing LOD0 / LOD1 / LOD2 with triangle counts listed.
-- [ ] **Polygon Stats:** Tris, faces, and vertices clearly listed on the page.
-- [ ] **Real-Time Budget Target:** Platform target stated (PC/console/mobile) with triangle budget.
+- [ ] **Low-Poly Mesh:** Optimized character model suitable for real-time rendering.  
+- [ ] **Wireframe Renders:** Full body + face close-up + hands close-up (if applicable).
+- [ ] **LOD Proof:** Side-by-side image showing LOD0 / LOD1 / LOD2 with triangle counts listed (if applicable).
+- [ ] **Polygon Stats:** Wireframe rendering with callout of tris + texture count.
+- [ ] **Topology Quality:** Clean edge loops around shoulders, elbows, hips, knees, and mouth.
 
 > [!NOTE]
 > ### Common Triangle Budgets by Platform / Asset Type:
@@ -64,12 +64,7 @@ Use this checklist to organize your portfolio page (or ArtStation post). **The g
 > | Switch / Indie              | 500 - 2k                   |
 > | PC / Console                | 2K – 10K                  |
 > | Cinematic                   | 10k – 50K                   |
-> 
-
-
---- 
-
-## Add-On Deliverables
+>
 
 ### D) Environment Storytelling
 - [ ] **Environmental Staging**: Rendered scene demonstrating the objects in a fully staged environment
@@ -77,23 +72,27 @@ Use this checklist to organize your portfolio page (or ArtStation post). **The g
 - [ ] 🌟 **Real-Time Gameplay Capture Flythrough:** Short fly-through or orbit showing the environment from multiple angles.
 - [ ] **Environmental Story Intent (1–2 Sentences):** A 1-2 sentence description of what story the scene is meant to convey through props, lighting, and staging (no dialogue, no characters required).
 
+
+--- 
+
+## Add-On Deliverables
+
 ### E) Materials + Texture Deliverables
 - [ ] **UV Layout:** Organized UVs with no major stretching and logical island grouping.  
 - [ ] **Texture Maps:** Base Map, Normal Map, Roughness Map, Metallic Map (or Specular workflow).  
 - [ ] **Optional Maps (If Used):** Ambient Occlusion, Emissive, Alpha, Height.  
-- [ ] **Texture Resolution Listed:** Example: “Body 2K, Head 2K, Accessories 1K.”
+- [ ] **Texture Resolution Listed:** Example: “Hero Prop 2K, small props 1K.”
 - [ ] **Material Variety:** At least 2–3 distinct surface types (skin, cloth, metal, leather, etc.).  
 - [ ] **Shader Demonstration:** Proof of specialized shading (skin SSS, hair anisotropy, cloth response, etc.).  
 - [ ] **Material Breakdown:** A screenshot or page section showing which materials are assigned where.   
 - [ ] 🌟 **Real-Time Gameplay Render:** Video showing textures/materials real-time rendered in game.  
-
 
 ### F) Lighting + Mood (Only if you lit the scene)
 - [ ] **Mood Pass:** Rendering showing lighting that supports the intended theme (cozy, horror, abandoned, sci-fi, etc.).
 - [ ] **Lighting Breakdown:** Lighting-only view or light placement screenshot
 - [ ] **Composition Proof:** Rendering with a clear focal point and readable value grouping (the scene “reads” at a glance).
 - [ ] 🌟 **Real-Time Gameplay Capture:** Short fly-through or orbit showing the lighting working from multiple angles.
-
+      
 ### G) Animated / Interactive Assets
 - [ ] **Animation Preview:** Short looping video or GIF showing the animation in isolation (e.g., door opening, lever moving, fan spinning).
 - [ ] 🌟**Real-Time Gameplay Capture:** Video showing the animated object in the game/scene context, from a player-style camera.
