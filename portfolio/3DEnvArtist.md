@@ -1,4 +1,4 @@
-# Environmental 3D Artist (3D Generalist)
+# 3D Environmental Artist (3D Generalist)
 
 ## Role Description
 
