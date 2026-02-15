@@ -37,7 +37,7 @@ Use this checklist to organize your portfolio page (or ArtStation post). **The g
 - [ ] **Clay Render:** Neutral gray material to show silhouette, lighting, and surface form (**individual prop**).
 - [ ] **Textured Turntable:** Animated 360° rotation around the object / scene.  
 - [ ] **Clay Turntable:** Animated 360° rotation around the object (**individual prop**).  
-- [ ] 🌟 **Real-Time Gameplay Capture:** Video showing the character used in a game context (third-person camera or similar).
+- [ ] 🌟 **Real-Time Gameplay Capture:** Video showing the object used in a game context (third-person camera or similar).
  
 ### B) Required Written Info
 - [ ] **Description:**  Character Name + 1–2 Sentence on who they are and what role they fit.  
