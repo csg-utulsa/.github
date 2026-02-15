@@ -40,7 +40,7 @@ Use this checklist to organize your portfolio page (or ArtStation post). **The g
 - [ ] 🌟 **Real-Time Gameplay Capture:** Video showing the object used in a game context (third-person camera or similar).
  
 ### B) Required Written Info
-- [ ] **Description:**  Character Name + 1–2 Sentence on who they are and what role they fit.  
+- [ ] **Description:**  Asset Name + 1–2 Sentence on what it is and how it is used in the game.  
 - [ ] **Style Tag:** Realistic/stylized / semi-real.
 - [ ] **Real-Time Budget Target:** Platform target stated (PC/console/mobile) with triangle budget.
 - [ ] **Polycount + Texture:** Tris + texture count listed clearly in description
@@ -66,11 +66,15 @@ Use this checklist to organize your portfolio page (or ArtStation post). **The g
 > | Cinematic                   | 10k – 50K                   |
 >
 
-### D) Environment Storytelling
+### D) Environment Storytelling + Composition 
 - [ ] **Environmental Staging**: Rendered scene demonstrating the objects in a fully staged environment
 - [ ] **Modular Assembly:** Image demonstrating how modular pieces come together in the environment scene.
 - [ ] 🌟 **Real-Time Gameplay Capture Flythrough:** Short fly-through or orbit showing the environment from multiple angles.
-- [ ] **Environmental Story Intent (1–2 Sentences):** A 1-2 sentence description of what story the scene is meant to convey through props, lighting, and staging (no dialogue, no characters required).
+- [ ] **Story Intent (1–2 Sentences):** A 1-2 sentence description of what story the scene is meant to convey through props, lighting, and staging (no dialogue, no characters required).
+- [ ] **Environmental Story Proof (Screenshots or Video):** Props + layout + lighting communicate story without dialogue or text.
+- [ ] **Annotations / Callouts:** 3–6 labeled notes pointing to storytelling details and design intent.
+- [ ] **Lighting Mood Pass:** Lighting supports the theme (cozy, horror, abandoned, battle-worn, etc.).
+- [ ] **Composition Proof:** Clear focal point + readable visual hierarchy (player eye is guided intentionally).
 
 
 --- 
