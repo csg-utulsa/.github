@@ -40,14 +40,14 @@ Use this checklist to organize your character page (or ArtStation post). **The g
 - [ ] **Description:**  Character Name + 1–2 Sentence on who they are and what role they fit.  
 - [ ] **Style Tag:** Realistic/stylized / semi-real.
 - [ ] **Real-Time Budget Target:** Platform target stated (PC/console/mobile) with triangle budget.
-- [ ] **Polycount + Texture Budget:** Tris + texture sizes listed clearly.  
+- [ ] **Polycount + Texture:** Tris + texture count listed clearly in description
 - [ ] **Software List:** Tools used (Blender/Maya/Max, Unity/Unreal, Substance, ZBrush, etc.).
 
 ### C) Modeling + Topology Proof 
 - [ ] **Low-Poly Mesh:** Optimized character model suitable for real-time rendering.  
 - [ ] **Wireframe Renders:** Full body + face close-up + hands close-up (if applicable).
 - [ ] **LOD Proof:** Side-by-side image showing LOD0 / LOD1 / LOD2 with triangle counts listed (if applicable).
-- [ ] **Polygon Stats:** Tris, faces, and vertices clearly listed on the page.  
+- [ ] **Polygon Stats:** Wireframe rendering with callout tris + texture count.
 - [ ] **Topology Quality:** Clean edge loops around shoulders, elbows, hips, knees, and mouth.  
 
 
