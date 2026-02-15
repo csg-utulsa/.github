@@ -42,7 +42,7 @@ Use this checklist to organize your character page (or ArtStation post). **The g
 - [ ] **Real-Time Budget Target:** Platform target stated (PC/console/mobile) with triangle budget.
 - [ ] **Polycount + Texture:** Tris + texture count listed clearly in description
 - [ ] **Software List:** Tools used (Blender/Maya/Max, Unity/Unreal, Substance, ZBrush, etc.).
-- [ ] **Citatio List:** External textures cited with licence. 
+- [ ] **Citation List:** External textures cited with licence. 
 
 ### C) Modeling + Topology Proof 
 - [ ] **Low-Poly Mesh:** Optimized character model suitable for real-time rendering.  
@@ -82,8 +82,8 @@ Use this checklist to organize your character page (or ArtStation post). **The g
 
 ### F) Materials + Texture Deliverables
 - [ ] **UV Layout:** Organized UVs with no major stretching and logical island grouping.  
-- [ ] **Texture Maps:** Albedo/BaseColor, Normal, Roughness, Metallic (or Specular workflow).  
-- [ ] **Optional Maps (If Used):** AO, Emissive, Opacity, Height.  
+- [ ] **Texture Maps:** Base Map, Normal Map, Roughness Map, Metallic Map (or Specular workflow).  
+- [ ] **Optional Maps (If Used):** Ambient Occlusion, Emissive, Alpha, Height.  
 - [ ] **Texture Resolution Listed:** Example: “Body 2K, Head 2K, Accessories 1K.”
 - [ ] **Material Variety:** At least 2–3 distinct surface types (skin, cloth, metal, leather, etc.).  
 - [ ] **Shader Demonstration:** Proof of specialized shading (skin SSS, hair anisotropy, cloth response, etc.).  
