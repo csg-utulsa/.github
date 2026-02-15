@@ -15,8 +15,7 @@ Cinematic artists use Unity Timeline or Unreal Sequencer to choreograph cameras,
 > -   **Final Reel / Presentation Clips** (clean edited output with captions)
 >     
 
-# Portfolio Deliverables Checklist (Per Cinematic Piece)
-
+# Portfolio Deliverables Checklist 
 Each cinematic sequence in your portfolio should demonstrate your ability to plan, direct, and implement real-time scenes, with clear evidence of timing, shot design, and technical sequencing.
 -   **Required Deliverables:** Must be included for every cinematic piece.
 -   **Add-On Deliverables:** Include only if you personally created them (audio, VFX, scripting, etc.).
@@ -35,10 +34,11 @@ Each cinematic sequence in your portfolio should demonstrate your ability to pla
     
 ### B) Required Written Info
 - [ ]  **Sequence Title + 1–2 Sentence Intent:** What story beat or mood is being delivered?
-- [ ]  **Engine + Tools Used:** Unity / Unreal + Sequencer/Timeline + any DCC tools.
 - [ ]  **Length + Context:** Cutscene, intro, gameplay moment, or scripted event.
-    
-### C) Planning (Previs)
+- [ ] **Software List:** Tools used ( Unity/Unreal, Blender/Maya/Max, etc.).
+- [ ] **Citation List:** External textures cited with licence. 
+
+### C) Planning/Storyboarding
 - [ ] **Beat Sheet:** One-page breakdown of the key sequence beats.
 - [ ]  **Storyboard (6–12 Frames):** Key compositions and shot order.
 - [ ]  **Animatic (Optional but Strong):** Timed storyboard video proving pacing.
@@ -53,14 +53,10 @@ Each cinematic sequence in your portfolio should demonstrate your ability to pla
 ## Add-On Deliverables
 
 ### E) Cinematic Direction (Camera + Composition)
-- [ ] **Composition Proof (Annotated Frame):** Export **1 still frame** from the cinematic with callouts showing **focal point**, **foreground/midground/background**, and **visual hierarchy** (optional thirds grid).
-- [ ] **Lens / FOV Proof (Wide vs Tight):** Export **2 still frames** of the same shot from the same camera position:
-      -   **Wide lens** (high FOV)
-      -   **Tight lens** (low FOV)
-      - Label each with the **FOV / focal length**.
-- [ ] **Camera Settings Screenshot:** Screenshot of the **camera component settings** (FOV / focal length visible).
-- [ ] **Camera Language Clip (10–20s):** A short clip showing **one intentional camera move** (push-in, reveal, handheld, orbit, etc.).
-- [ ] **Camera Move Proof (Timeline Screenshot):** Screenshot of the **Sequencer/Timeline camera track** showing keyframes and easing.
+- [ ] **Composition Proof (Annotated Frame): Screenshot from the cinematic with callouts identifying focal point, foreground/midground/background, and visual hierarchy (optional thirds grid).
+- [ ] **Lens / FOV Proof:** Rendering of various camera shots, label each with the FOV/focal length.
+- [ ] **Camera Motion Clip (10–20s):** A short video showing one deliberate camera movement (e.g., slow push-in, a reveal, a handheld shake, or an orbit) that helps tell the story or highlight important elements.
+- [ ] **Camera Move Proof (Timeline Screenshot):** Screenshot of the Sequencer/Timeline camera track showing keyframes and easing.
 - [ ] **Shot Intent (1 sentence):** One sentence explaining what the shot is trying to communicate emotionally.
     
 ### F) Environmental Motion + VFX
@@ -74,5 +70,5 @@ Each cinematic sequence in your portfolio should demonstrate your ability to pla
 - [ ]    🌟 **Final Mini-Reel (60–90s):** Compilation of your best shots with clean labels.
     
 ### H) Case Study / Breakdown
-- [ ]  **Before / After:** Storyboard → previs → final sequence comparison.
+- [ ]  **Before / After:** Storyboard → pre-visuaization → final sequence comparison.
 - [ ]  **Iteration Notes:** 3–6 bullets explaining key improvements you made after testing.
