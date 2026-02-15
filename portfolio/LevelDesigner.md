@@ -34,7 +34,8 @@ Each level or level section in your portfolio should show **your ability to desi
 - [ ] **Story & Gameplay Intent (1–2 Sentences):** What the player should feel or discover, and how gameplay mechanics support the narrative.
 - [ ] **Target Platform / Genre:** Indicate where the level would be used (PC, console, VR, mobile).
 - [ ] **Player Capacity / Scale Notes:** Map dimensions, expected number of players (if multiplayer), or approximate traversal times.
-- [ ] **Software Used:** Tools (Blender, Unreal, Unity, World Machine, etc.).
+- [ ] **Software Used:** Tools (Unity, Unreal, Unity, Godot, etc.).
+- [ ]  **Citation List:** External assets cited with licence.
     
 ### C) Interactive / Dynamic Elements 
 - [ ] 🌟**Playable Prototype:** Show scripted events, interactive doors, destructible objects, or elevators.
