@@ -24,8 +24,9 @@ Each portfolio piece should clearly show **your ability to create 2D assets that
 
 ### A) Presentation
 - [ ] **Final Render / Screenshot of Asset:** Clean image of character, prop, tile, or UI element.
-- [ ] **Concept Sketch / Exploration:** Shows iterations, variations, or color studies.
-- [ ] **Silhouette / Readability Proof:** Asset recognizable and readable at gameplay scale (in isolation or small size).
+- [ ] **Concept Sketch / Exploration:** Images of iterations, variations, or color studies.
+- [ ] **Silhouette / Readability Proof:** Image of asset silhouette demonstrating recognizable and readable at gameplay scale (in isolation or small size).
+- [ ] **Scaling / Resolution Proof:** Image demonstrating the asset maintaining correct size, clarity, and readability at the intended in-game scale (e.g., pixel-based sprites align with background pixels; vector/UI elements scale and slice correctly).
 - [ ] **Style Guide / Visual Consistency:** Palette, line weight, shading, and iconography rules demonstrating a cohesive art direction.
 - [ ]  🌟 **Real-Time Gameplay Capture:** Video showing the asset used in a game context.
     
