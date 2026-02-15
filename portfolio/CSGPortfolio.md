@@ -1,6 +1,6 @@
 # CSG Portfolio Checklist
 
-**All students should include a minimum of 3 completed game projects in their portfolio.** 
+**All students must include a minimum of 3 completed game projects in their portfolio.** 
 
 Each project should clearly demonstrate your skills, problem-solving, and contribution to the final product.
 
