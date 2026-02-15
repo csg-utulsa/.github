@@ -34,7 +34,7 @@ Each project should clearly demonstrate your skills, problem-solving, and contri
 
 ## Additional Role-Specific Deliverable
 
-In addition to the 3 game portfolio pieces, students will prepare additional portfolio pieces based on their designated role. 
+In addition to the **3 game portfolio pieces**, students will prepare **additional portfolio pieces based on their designated role**. 
 
 > [!WARNING]
 > See Harvey _Portfolio Assessment_ assignment feedback for your assigned role.
