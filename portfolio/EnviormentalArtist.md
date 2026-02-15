@@ -45,7 +45,7 @@ Use this checklist to organize your portfolio page (or ArtStation post). **The g
 - [ ] **Real-Time Budget Target:** Platform target stated (PC/console/mobile) with triangle budget.
 - [ ] **Polycount + Texture:** Tris + texture count listed clearly in description
 - [ ] **Software List:** Tools used (Blender/Maya/Max, Unity/Unreal, Substance, ZBrush, etc.).
-- [ ] **Citation List:** External textures cited with licence. 
+- [ ] **Cite External Assets:** Include all external assets (e.g., images, textures, models, sounds, references) used in your work, and note the license, permission, or source for each.
 
 ### C) Modeling + Topology Proof 
 - [ ] **Low-Poly Mesh:** Optimized character model suitable for real-time rendering.  
