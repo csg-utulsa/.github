@@ -34,9 +34,9 @@ Use this checklist to organize your portfolio page (or ArtStation post). **The g
 
 ### A) Presentation
 - [ ] **Textured Beauty Render:** Final materials, clear lighting, full body visible.  
-- [ ] **Clay Render:** Neutral gray material to show silhouette, lighting, and surface form (**single prop only**).
-- [ ] **Textured Turntable:** Animated 360° rotation around the character.  
-- [ ] **Clay Turntable:** Animated 360° rotation around the character.  
+- [ ] **Clay Render:** Neutral gray material to show silhouette, lighting, and surface form (**individual prop**).
+- [ ] **Textured Turntable:** Animated 360° rotation around the object / scene.  
+- [ ] **Clay Turntable:** Animated 360° rotation around the object (**individual prop**).  
 - [ ] 🌟 **Real-Time Gameplay Capture:** Video showing the character used in a game context (third-person camera or similar).
  
 ### B) Required Written Info
@@ -52,7 +52,7 @@ Use this checklist to organize your portfolio page (or ArtStation post). **The g
 - [ ] **Wireframe Renders:** Full body + face close-up + hands close-up (if applicable).
 - [ ] **LOD Proof:** Side-by-side image showing LOD0 / LOD1 / LOD2 with triangle counts listed (if applicable).
 - [ ] **Polygon Stats:** Wireframe rendering with callout of tris + texture count.
-- [ ] **Topology Quality:** Clean edge loops around shoulders, elbows, hips, knees, and mouth.
+- [ ] **Topology Quality:** Clean, evenly spaced edge loops or quads in critical areas such as curved surfaces, mechanical parts, hinges, or areas that deform or articulate.
 
 > [!NOTE]
 > ### Common Triangle Budgets by Platform / Asset Type:
