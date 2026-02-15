@@ -36,7 +36,7 @@ Each cinematic sequence in your portfolio should demonstrate your ability to pla
 - [ ]  **Sequence Title + 1–2 Sentence Intent:** What story beat or mood is being delivered?
 - [ ]  **Length + Context:** Cutscene, intro, gameplay moment, or scripted event.
 - [ ] **Software List:** Tools used ( Unity/Unreal, Blender/Maya/Max, etc.).
-- [ ] **Citation List:** External assets cited with licence. 
+- [ ] **Cite External Assets:** Include all external assets (e.g., images, textures, models, sounds, references) used in your work, and note the license, permission, or source for each.
 
 ### C) Planning/Storyboarding
 - [ ] **Beat Sheet:** One-page breakdown of the key sequence beats.
