@@ -1,5 +1,5 @@
 ## Level Designer
-Level designers create playable environments that guide players, communicate narrative, and stage interactions through layout, props, and lighting. Their work balances pacing and challenge while ensuring the space naturally suggests what players can do, how they move, and how they engage with the world—all without explicit instructions.
+Level designers create playable environments that guide players, communicate narrative, and stage interactions through layout, props, and lighting. Their work balances pacing and challenge while ensuring the space naturally suggests what players can do, how they move, and how they engage with the world, all without explicit instructions.
 
 > [!IMPORTANT\]
 > ### What Your Portfolio Should Contain
