@@ -43,7 +43,7 @@ Each level or level section in your portfolio should show **your ability to desi
 - [ ] **Technical Notes:** Basic explanation of scripting approach or logic if implemented.
 
 ### D) Storytelling Through Level Design (Player Experience Focus)
-- [ ] **Interaction Narrative Clips / Screenshots:** Short gameplay clips or annotated screenshots highlighting **affordances** (doors, climbable surfaces, cover, puzzles, destructibles) that convey story or guide player discovery.
+- [ ] **Interaction Narrative Clips / Screenshots:** Gameplay clips or annotated screenshots showing how **interactable elements communicate story or guide player discovery**.
 - [ ] **Environmental Story Callouts:** Notes or labels pointing to objects, props, or layout elements and explaining **how they reinforce narrative or world-building**.
 - [ ] **Visual Focus Proof:** Evidence that geometry, lighting, and focal points lead the player’s attention to key narrative interactions (not just decorative elements).
 
