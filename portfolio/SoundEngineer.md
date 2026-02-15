@@ -51,5 +51,5 @@ Each portfolio piece should show your ability to create, implement, and integrat
 ## Add-On Deliverables
 - [ ] **Foley Recording Breakdown:** Clips showing raw foley and edited output.
 - [ ] **Dialogue Example:** Clip demonstrating processed voice-over, lip-sync, and clarity.
-- [ ]**Voice-Over Session Notes:** Recording setup, microphone choice, processing chain.
+- [ ] **Voice-Over Session Notes:** Recording setup, microphone choice, processing chain.
 - [ ] **Before/After Mix Comparison:** Demonstrates improvement from raw recording to final integrated mix.
