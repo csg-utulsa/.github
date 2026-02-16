@@ -10,7 +10,7 @@ Gameplay programmers implement player-facing mechanics and interactive features 
 > -   **Interactive World Elements** (doors, triggers, hazards, physics-based interactions)
 > -   **Gameplay-Focused Code Samples** (clean, readable scripts with comments and structure)
 > -   **Gameplay Videos Showing Your Systems in Action** (proof it works in a real build)
-> -   **Clean, SOLID, Documented Code:** Proof of "Production Ready" scripts (C# for Unity / C++ for Unreal).
+> -   **Clean, SOLID, Documented Code** (production-ready, properly commented, readable, and maintainable)
 >
 
 # Portfolio Deliverables Checklist
