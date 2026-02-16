@@ -50,9 +50,9 @@ Each portfolio piece should show your ability to implement **gameplay features t
 - [ ] **Optimization Note (1–2 Sentences):** How you kept it efficient (pooling, reduced allocations, cached lookups, fewer Update calls, etc.).
 - [ ] **README File:** Clear setup instructions for running the demo (controls, how to play, how to test the mechanic).
 
-> [!NOTE]
-> All code included in your portfolio should follow professional coding standards: clear naming conventions, consistent formatting/style rules, clean organization, and appropriate documentation comments (including XML comments where applicable).
-> 
+> \[!NOTE\]  
+> All code should follow **professional coding standards**: clear naming conventions, DRY, consistent formatting/style rules, clean organization, robust error handling (null checks, try/catch), and documentation comments (XML or inline where applicable).
+>
 
 ---
 
