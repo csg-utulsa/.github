@@ -69,5 +69,5 @@ Each portfolio piece should show your ability to implement **gameplay features t
 
 ### F) Collaboration & Integration
 - [ ] **Git History Proof:** Evidence of frequent, meaningful commits with clear messages.
-- [ ] **Team Role Description:** What gameplay features you owned vs. what teammates owned.
-- [ ] **Integration Proof:** Show at least one example of your gameplay code working with someone else’s system (UI, animation, audio, VFX, AI, or level scripting). Include a short clip or screenshot + 1–2 sentences explaining the integration.
+- [ ] **Team Role Description:** Documentation of your responsibilities vs. teammates’.
+- [ ] **Integration Proof:** Example of system working with another team’s work (UI, audio, gameplay, level scripting, etc.), including a short clip/screenshot + 1–2 sentences explaining the integration.
