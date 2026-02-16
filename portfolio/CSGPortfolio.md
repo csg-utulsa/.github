@@ -49,7 +49,7 @@ In addition to the **3 game portfolio pieces**, students will prepare **addition
 -   **Game Designer**
 -   **[Level Designer](LevelDesigner.md)**
 -   **Narrative Designer**
--   **Programmer - Gameplay**
+-   **[Programmer - Gameplay](ProgrammerGameplay.md)**
 -   **Programmer - Game Systems** 
 -   **[Sound Engineer](SoundEngineer.md)**
 -   **Technical Artist (3D)**
