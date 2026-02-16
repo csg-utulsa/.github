@@ -43,8 +43,8 @@ In addition to the **3 game portfolio pieces**, students will prepare **addition
 #
 
 -   **[2D Game Artist](2DArtist.md)**
--   **[3D Environmental Artist (3D Generalist)](3DEnvArtist.md)**
 -   **[3D Character Modeler & Animator](3DCharModelerAnimator.md)**
+-   **[3D Environmental Artist (3D Generalist)](3DEnvArtist.md)**
 -   **[Cinematic Artist / Sequencer](CinematicArtist.md)**
 -   **Game Designer**
 -   **[Level Designer](LevelDesigner.md)**
