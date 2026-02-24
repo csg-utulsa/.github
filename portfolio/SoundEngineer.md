@@ -24,6 +24,7 @@ Each portfolio piece should show your ability to create, implement, and integrat
 
 ### A) Presentation
 - [ ] **Final Mix Reel / Audio Showcase:** 30–90 second clip demonstrating SFX, foley, and environmental audio.
+- [ ] **Music Playlist** 30-second highlight reel of musical compositions.
 - [ ] 🌟 **Interactive Audio Demo Clip:** Short gameplay clip showing individual sounds responding to player actions or environmental events (isolated from the full mix if possible).
 - [ ] 🌟 **Real-Time Gameplay Capture:** Video demonstrating full audio integration (i.e., multiple layers of audio) interacting dynamically in-game context.
     
@@ -32,6 +33,15 @@ Each portfolio piece should show your ability to create, implement, and integrat
 - [ ]  **Game / Scene Context:** Where and how the audio is used in gameplay.
 - [ ] **Tools / Middleware Used:** DAW (Pro Tools, Reaper, Ableton), Wwise, FMOD, Unity, Unreal, etc.
 - [ ] **Cite External Assets:** Credit any external sounds, samples, or recordings used and note licenses or permissions.
+- [ ] **Full Game Asset List Spreadsheet:** Provide a spreadsheet listing **all audio assets in the game** with the following columns:
+        -   **Asset Name** – name of the file/asset
+        -   **Type** – Music, SFX, Ambience, Dialogue, UI sound, etc.
+        -   **Scene / Context** – where or when it’s used in the game
+        -   **Creator** – in-house or external
+        -   **Length / Duration** – in seconds or minutes
+        -   **Format / Sample Rate** – file type and sample rate
+        -   **External Source / License** – credit third-party or licensed assets
+        -   **Notes / Usage Details** – any additional info like loops, triggers, or variations
     
 ### C) Sound Asset Deliverables
 - [ ] **Sound Effects / Foley Files:** Raw recordings and edited clips showing clean audio ready for integration.
