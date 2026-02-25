@@ -52,6 +52,6 @@ In addition to the **3 game portfolio pieces**, students will prepare **addition
 -   **[Programmer - Gameplay](ProgrammerGameplay.md)**
 -   **[Programmer - Game Systems](ProgrammerSystems.md)** 
 -   **[Sound Engineer](SoundEngineer.md)**
--   **Technical Artist (3D)**
+-   **[Technical Artist](TechnicalArtist.md)**
 -   **UX Designer**
 
