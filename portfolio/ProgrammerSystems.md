@@ -38,6 +38,7 @@ Each portfolio piece should demonstrate your ability to **design, implement, and
 - [ ] **Software & Language:** Unity/C#, Unreal/C++, Godot/GDScript, etc.
 - [ ] **Your Contribution (Collaboration Note):** What you built vs. what was provided.
 - [ ] **Cite External Assets & Libraries:** List any external code, plugins, assets, tutorials, or samples used and note the license/source for each.
+- [ ] **Case Study / Breakdown:** Step-by-step explanation of problem-solving, iteration, and refinement processes. Highlight challenges and solutions. (Minimum - one portfolio piece)
     
 
 ### C) Code & Implementation
