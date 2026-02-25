@@ -37,6 +37,7 @@ Each portfolio piece should clearly show **your ability to create 2D assets that
 - [ ] **Platform / Target Resolution:** Target game platform and in-game scale.
 - [ ] **Software Used:** Tools used to create the asset (Photoshop, Illustrator, Aseprite, Spine, Unity, Unreal, etc.).
 - [ ] **Cite External Assets:** Include all external assets (e.g., images, textures, models, sounds, references) used in your work, and note the license, permission, or source for each.
+- [ ] **Case Study / Breakdown:** Step-by-step explanation of problem-solving, iteration, and refinement processes. Highlight challenges and solutions. (For at least one portfolio piece)
     
 ### C) Game-Ready Assets
 - [ ] **Sprite Sheet / Tile Sheet:** Complete sheet showing modular tiles, animation frames, or repeatable elements.
