@@ -24,7 +24,7 @@ Each portfolio piece should **highlight your ability to solve technical problems
 
 ### A) Presentation
 - [ ] **Hero Shot / Demo Clip:** Short video or high-quality render showing the technical solution in context (e.g., shader, optimized environment, VFX).
-- [ ] **Real-Time Scene / Gameplay Capture:** Demonstrates your solution in action (lighting, shaders, procedural systems, or VFX).
+- [ ] **🌟 Real-Time Gameplay Capture:** Demonstrates your solution in action (lighting, shaders, procedural systems, or VFX).
 - [ ] **Technical Deep Dive:** Narrated video or annotated screenshots explaining the problem, your approach, and the technical logic.
 - [ ]  **Visual Logic Display:** Screenshots of Shader Graphs, Blueprints, HLSL snippets, or editor scripts with clear annotations.
 - [ ] **Tool UI Demonstration:** If you created tools or pipelines, show the interface and how it helps artists/designers.
