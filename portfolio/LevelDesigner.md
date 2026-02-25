@@ -36,6 +36,7 @@ Each level or level section in your portfolio should show **your ability to desi
 - [ ] **Player Capacity / Scale Notes:** Map dimensions, expected number of players (if multiplayer), or approximate traversal times.
 - [ ] **Software Used:** Tools (Unity, Unreal, Unity, Godot, etc.).
 - [ ] **Cite External Assets:** Include all external assets (e.g., images, textures, models, sounds, references) used in your work, and note the license, permission, or source for each.
+- [ ] **Case Study / Breakdown:** Step-by-step explanation of problem-solving, iteration, and refinement processes. Highlight challenges and solutions. (Minimum - one portfolio piece)
     
 ### C) Interactive / Dynamic Elements 
 - [ ] 🌟**Playable Prototype:** Show scripted events, interactive doors, destructible objects, or elevators.
