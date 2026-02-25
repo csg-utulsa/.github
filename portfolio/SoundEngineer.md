@@ -13,7 +13,7 @@ Sound Engineers design and implement audio for games, including sound effects (S
 
 # Portfolio Deliverables Checklist
 
-Each portfolio piece should show your ability to create, implement, and integrate high-quality audio in a game context.
+Each portfolio piece should show your ability to **create, implement, and integrate high-quality audio** in a game context.
 -   **Required Deliverables:** Must be included for every portfolio piece.
 -   **Add-On Deliverables:** Include only if you personally created them (adaptive audio logic, foley recording, dialogue editing, etc.).
 -   **Collaboration Note:** Clearly indicate which parts of the audio pipeline were your work.
