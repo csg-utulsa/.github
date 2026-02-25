@@ -14,7 +14,7 @@ Technical Artists are the **bridge between art and engineering**. They don’t p
 # Portfolio Deliverables Checklist
 
 Each level or level section in your portfolio should show **your ability to design, guide, and stage gameplay spaces**, with supporting documentation. Use this checklist to structure your submission.
--   **Required Deliverables:** Must be included for every piece.
+-   **Required Deliverables:** Must be included for every portfolio piece.
 -   **Add-On Deliverables:** Specific deep-dives based on your sub-specialty (Tools, Shaders, Rigging, or VFX).
 -   If you collaborated, clearly indicate which parts you were responsible for.
 
