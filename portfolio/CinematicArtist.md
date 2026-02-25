@@ -37,6 +37,7 @@ Each cinematic sequence in your portfolio should demonstrate your ability to pla
 - [ ]  **Length + Context:** Cutscene, intro, gameplay moment, or scripted event.
 - [ ] **Software List:** Tools used ( Unity/Unreal, Blender/Maya/Max, etc.).
 - [ ] **Cite External Assets:** Include all external assets (e.g., images, textures, models, sounds, references) used in your work, and note the license, permission, or source for each.
+- [ ] **Case Study / Breakdown:** Step-by-step explanation of problem-solving, iteration, and refinement processes. Highlight challenges and solutions. (Minimum - one portfolio piece)
 
 ### C) Planning/Storyboarding
 - [ ] **Beat Sheet:** One-page breakdown of the key sequence beats.
