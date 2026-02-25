@@ -16,7 +16,7 @@ Cinematic artists use Unity Timeline or Unreal Sequencer to choreograph cameras,
 >     
 
 # Portfolio Deliverables Checklist 
-Each cinematic sequence in your portfolio should demonstrate your ability to plan, direct, and implement real-time scenes, with clear evidence of timing, shot design, and technical sequencing.
+Each cinematic sequence in your portfolio should demonstrate your ability to **plan, direct, and implement real-time scenes**, with clear evidence of timing, shot design, and technical sequencing.
 -   **Required Deliverables:** Must be included for every cinematic piece.
 -   **Add-On Deliverables:** Include only if you personally created them (audio, VFX, scripting, etc.).
 -   If you collaborated, clearly indicate which parts you were responsible for.
