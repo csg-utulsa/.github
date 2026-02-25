@@ -42,6 +42,7 @@ Each portfolio piece should show your ability to create, implement, and integrat
     -   **Format / Sample Rate** – file type and sample rate
     -   **External Source / License** – credit third-party or licensed assets
     -   **Notes / Usage Details** – any additional info like loops, triggers, or variations
+- [ ] **Case Study / Breakdown:** Step-by-step explanation of problem-solving, iteration, and refinement processes. Highlight challenges and solutions. (Minimum - one portfolio piece)
     
 ### C) Sound Asset Deliverables
 - [ ] **Sound Effects / Foley Files:** Raw recordings and edited clips showing clean audio ready for integration.
