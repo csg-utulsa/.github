@@ -12,7 +12,7 @@ Level designers create playable environments that guide players, communicate nar
 > - **Environmental Storytelling** (small scenes showing narrative through props, lighting, and layout)
 
 
-# Portfolio Deliverables Checklist (Per level Design Piece)
+# Portfolio Deliverables Checklist
 
 Each level or level section in your portfolio should show **your ability to design, guide, and stage gameplay spaces**, with supporting documentation. Use this checklist to structure your submission.
 -   **Required Deliverables:** Must be included for every level piece.
