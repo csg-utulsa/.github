@@ -46,6 +46,7 @@ Use this checklist to organize your portfolio page (or ArtStation post). **The g
 - [ ] **Polycount + Texture:** Tris + texture count listed clearly in description
 - [ ] **Software List:** Tools used (Blender/Maya/Max, Unity/Unreal, Substance, ZBrush, etc.).
 - [ ] **Cite External Assets:** Include all external assets (e.g., images, textures, models, sounds, references) used in your work, and note the license, permission, or source for each.
+- [ ] **Case Study / Breakdown:** Step-by-step explanation of problem-solving, iteration, and refinement processes. Highlight challenges and solutions. (Minimum - one portfolio piece)
 
 ### C) Modeling + Topology Proof 
 - [ ] **Low-Poly Mesh:** Optimized character model suitable for real-time rendering.  
