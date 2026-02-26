@@ -48,7 +48,7 @@ In addition to the **3 game portfolio pieces**, students will prepare **addition
 -   **[Cinematic Artist / Sequencer](CinematicArtist.md)**
 -   **[Game Designer](GameDesigner.md)**
 -   **[Level Designer](LevelDesigner.md)**
--   **Narrative Designer**
+-   **[Narrative Designer](NarrativeDesigner.md)**
 -   **[Programmer - Gameplay](ProgrammerGameplay.md)**
 -   **[Programmer - Game Systems](ProgrammerSystems.md)** 
 -   **[Sound Engineer](SoundEngineer.md)**
